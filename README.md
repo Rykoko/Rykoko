@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rykoko
 - 👀 I’m interested in tech, sports, language learning and yoga.
-- 🌱 I’m currently learning python as I want to have an understanding how the technology around me works. I don't want to have to depend on others for my cyber security, tech knowledge or anything else related to technology. 
-- 💞️ I’m looking to collaborate on nothing, I'm just having fun learning right now. 
-- 📫 How to reach me ... I mean I'm pretty introverted so I'd leave you on 'read' for quite a while. 
+- 🌱 I’m currently learning python and Django while trying to rememebr the JavaScript, CSS and HTML I learned many years ago!
+- 💞️ I'm still in the learning process but I know my interest is in data analysis, collection, understanding etc. 
+- 📫 Through GitHub is probably the best way as I'm not very active on social media --> Needed to detox myself off it!
 
 <!---
 Rykoko/Rykoko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
